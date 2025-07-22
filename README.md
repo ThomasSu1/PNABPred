@@ -25,4 +25,4 @@ $ cd your-repo-name
 $ python train.py
 ```
 # Acknowledgement
-- ESM-2: https://github.com/facebookresearch/esm
+- ESM: https://github.com/facebookresearch/esm
