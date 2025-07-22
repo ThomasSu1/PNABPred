@@ -13,7 +13,7 @@ $ conda activate protein_pred
 $ pip install -r requirements.txt
 
 # 4. Clone this repository
-
+$ git clone https://github.com/ThomasSu1/PNABPred.git
 ```
 # Usage
 To train a new model, run `train.py`. The training log will be saved to `model_training.log`.
